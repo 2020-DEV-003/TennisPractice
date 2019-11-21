@@ -26,7 +26,7 @@ public class TennisGameTest {
 	}
 
 	@Test
-	public void testNewGameShouldReturnLOVEAll() {
+	public void testNewTennisGameShouldReturnLOVEAll() {
 
 		playerOne.setScore(0);
 		playerTwo.setScore(0);
