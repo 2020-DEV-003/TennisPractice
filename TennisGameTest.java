@@ -17,7 +17,7 @@ public class TennisGameTest {
 	TennisGame tennisGame;
 
 	@Before
-	public void beforeTennisServiceImplTest() {
+	public void beforeTennisGameTest() {
 		playerOne = new Player();
 		playerTwo = new Player();
 		playerOne.setName("Dhileepan");
